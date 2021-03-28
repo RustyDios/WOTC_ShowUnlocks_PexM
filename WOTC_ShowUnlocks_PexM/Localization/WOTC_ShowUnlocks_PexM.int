@@ -1,0 +1,16 @@
+;*******************************************************************************************
+;  FILE:   XComDownloadableContentInfo_WOTC_ShowUnlocks_PexM.uc                                    
+;
+;	File CREATED	06/01/21    08:00
+;	LAST UPDATED    08/01/21    08:15
+;
+;	ADDS A NEW PANEL TO THE PEXM PROJECTS SCREEN THAT SHOWS ALL THE UNLOCK REWARDS
+;
+;*******************************************************************************************
+
+[UISL_ShowTechUnlocks_PexM]
+Title = "Unlocks"
+m_strPartial = "[Partial]"
+m_strPossible = "[Possible]"
+m_strObfuscate = "[?????]"
+m_strEmptyUnlocks = "There is no information to display"
